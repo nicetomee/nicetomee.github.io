@@ -1,3 +1,2 @@
-# ただいま練習中
-  
+Github Pages  
 https://nicetomee.github.io/
